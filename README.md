@@ -14,5 +14,5 @@ See in Folder interim presentation
 
 <br>
 
-### Link to Presentation
+### Link to Interim Presentation
 https://docs.google.com/presentation/d/1xR3dCzNC7DD3MlPDkkYJEapDoezfGNe87RZCGDTc4ho/edit?usp=sharing
